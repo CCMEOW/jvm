@@ -24,4 +24,7 @@
             * [ParNew](垃圾回收/垃圾回收器/新生代/parnew.md)
             * [Parallel Scavenge](垃圾回收/垃圾回收器/新生代/ps.md)            
         * [老年代](垃圾回收/垃圾回收器/老年代/老年代.md)
-
+            * [Serial Old](垃圾回收/垃圾回收器/老年代/serialold.md)
+            * [Parallel Old](垃圾回收/垃圾回收器/老年代/po.md)
+            * [CMS](垃圾回收/垃圾回收器/老年代/cms.md)
+        * [g1](垃圾回收/垃圾回收器/g1.md)
